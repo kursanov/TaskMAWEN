@@ -57,6 +57,7 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "last_opened_file_path": "D:/tim/HW1_jdbc",
+    "nodejs_package_manager_path": "npm",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.0",
@@ -102,7 +103,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1665075486844</updated>
-      <workItem from="1665075488305" duration="10831000" />
+      <workItem from="1665075488305" duration="11174000" />
     </task>
     <servers />
   </component>
